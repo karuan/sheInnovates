@@ -1,0 +1,33 @@
+{
+    "author": "kruan",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "checklisttest",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "ChecklistTest",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "KEY_ITEMS_TO_ADD": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "a45ab7a8-d14a-49ec-8cfd-b183ddfd9a14",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
